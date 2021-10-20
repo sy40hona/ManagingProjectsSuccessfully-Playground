@@ -1,2 +1,2 @@
 # ManagingProjectsSuccessfully-Playground 
-Meine Lieblingsuhrzeit ist 10.00 Uhr. 
+Meine Lieblingsuhrzeit ist die Sonnenaufgang Uhrzeit 
